@@ -10,7 +10,7 @@ public class HospitalMain {
         Scanner sc = new Scanner(System.in);
         boolean exit = false;
 
-        // While loop for showing the menu until user not want to exit
+                                                                                // While loop for showing the menu until user not want to exit
         while(!exit) {
             System.out.println("\nEnter 1. Add Patient \nEnter 2. Show Patient \nEnter 3. Exit");
             int num = sc.nextInt();
